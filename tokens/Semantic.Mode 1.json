@@ -1,0 +1,132 @@
+{
+  "font": {
+    "font-family": {
+      "headline1": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "headline2": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "title": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "subtitle": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "body2": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "body3": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "button": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "body1": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "caption": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    }
+  }
+}
