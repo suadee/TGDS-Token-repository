@@ -125,7 +125,7 @@
   },
   "VariableAPITest": {
     "$type": "color",
-    "$value": "#ff0000",
+    "$value": "#0000ff",
     "$description": "",
     "$extensions": {
       "com.figma": {
